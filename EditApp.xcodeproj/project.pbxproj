@@ -11,6 +11,7 @@
 		7A1800512BD3FC0E000DE4EF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A1800502BD3FC0E000DE4EF /* ContentView.swift */; };
 		7A1800532BD3FC0F000DE4EF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A1800522BD3FC0F000DE4EF /* Assets.xcassets */; };
 		7A1800562BD3FC0F000DE4EF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7A1800552BD3FC0F000DE4EF /* Preview Assets.xcassets */; };
+		7A18005D2BD3FE81000DE4EF /* EditProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7A18005C2BD3FE81000DE4EF /* EditProfileView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		7A1800502BD3FC0E000DE4EF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		7A1800522BD3FC0F000DE4EF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7A1800552BD3FC0F000DE4EF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		7A18005C2BD3FE81000DE4EF /* EditProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EditProfileView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				7A18004E2BD3FC0E000DE4EF /* EditAppApp.swift */,
 				7A1800502BD3FC0E000DE4EF /* ContentView.swift */,
+				7A18005C2BD3FE81000DE4EF /* EditProfileView.swift */,
 				7A1800522BD3FC0F000DE4EF /* Assets.xcassets */,
 				7A1800542BD3FC0F000DE4EF /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7A18005D2BD3FE81000DE4EF /* EditProfileView.swift in Sources */,
 				7A1800512BD3FC0E000DE4EF /* ContentView.swift in Sources */,
 				7A18004F2BD3FC0E000DE4EF /* EditAppApp.swift in Sources */,
 			);
